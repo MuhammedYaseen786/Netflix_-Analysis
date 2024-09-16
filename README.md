@@ -1,2 +1,2 @@
-# Netflix_-Analysis
+# Netflix_Analysis
 Analysis using SQL
