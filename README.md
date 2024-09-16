@@ -1,4 +1,3 @@
 # Netflix_Analysis
 
-! [Netflix_Logo] {https://github.com/MuhammedYaseen786/Netflix_Analysis/blob/main/Netflix_logo.png}
-
+![Netflix_logo](https://github.com/user-attachments/assets/af141207-1a5a-4a3b-b0b3-c96235836680)
